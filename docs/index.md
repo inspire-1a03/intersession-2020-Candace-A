@@ -1,4 +1,5 @@
-# Add your page title and name here
+# Inspire 1A03: Electronics & The Rest of Us!
+*Candace's Project*
 <!--
 Welcome to your project page for Electronics for the Rest of Us. You'll use this page to describe and showcase your work throughout the module. 
 A place for each deliverable has been created below for you in this markdown document. 
@@ -7,6 +8,9 @@ Note that comments (such as this) will not appear in the final markdown document
 
 
 ## Day 1: Reflection
+
+Today, during the first day of this course we worked through steps to create and edit a webpage through GitHub, and GitHub Pages. Aside from initially having a trivial technical issue getting into the Teams meeting and joining a few minutes late, it was refreshingly simple and straightforward to accomplish and troubleshoot the tasks without any confusion or snags at all. Considering how little experience I have with any of this, it was surprisingly clear and the steps to work through it, along with Jay Brodeur’s guidance, helped me to have a better overall understanding of how to navigate GitHub. The use of Markdown to put in accurate syntax and formatting made it a breeze, though I am admittedly still inexperienced enough to rely on it as a reference, instead of knowing it completely by memory yet.
+
 <!--
 In this section, provide a ~250 word reflection on your first day of the module, and discuss why you're interested in this module and what you hope to take away from it.
 
