@@ -6,7 +6,7 @@ relative_links:
   collections: true
 include:
 
-title: edit your title in /docs/_config.yml
-description: edit your description in /docs/_config.yml
+title: Inspire 1A03
+description: McMaster University Spring Term 2020
 
 theme: jekyll-theme-midnight
