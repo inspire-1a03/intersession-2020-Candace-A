@@ -25,7 +25,7 @@ Inserting an image takes the form:
 See the following webpage for more information: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images
 Replace the elements below to insert your picture.
 --> 
-![Markdown logo](images/markdown.png "This is the Markdown logo!")
+![Completed Button image](images/3846F1B5-8938-4466-B705-35C763F38DEB.jpeg "This is the completed button circuit")
 
 ## Day 2: Results
 <!--
