@@ -39,7 +39,7 @@ Provide a short (~150 words) summary of your work on this circuit:
 - Be sure to link to your code (in your GitHub repository) in the text of your response.
 -->
 
-[Finished thermistor and LED](thermistorLEDcode)
+[Finished thermistor and LED](https://inspire-1a03.github.io/intersession-2020-Candace-A/thermistorLEDcode)
 
 ## Arduino build-off results
 <!--
