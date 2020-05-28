@@ -81,6 +81,8 @@ Note that this video won't show when previewing the document in GitHub--it only 
 
 
 ## Final reflection & summary
+This module was an absolute blast. There was plenty of tedious troubleshooting in some of the later projects, and because of this, I unfortunately did not get the time in to really explore the capabilities of the Arduino and come up with something new and unique. I essentially built a weather station that works to monitor temperature dropping in my indoor basement greenhouse, where I currently have the last round of seedlings growing before moving outside. The buzzer connected, along with the LED light switching from green to red, indicates when temperatures drop below 15 degrees, so that I can supplement heat as needed. In the future I'd like to sort out a way to elaborate on lighting and heat for plants without needing to supplement with something manually. Although these items already exist, and are pretty readily available in stores (timers, thermostats, growing kits with heat beds), it would be neat to build and st parameters from scratch, just to have a better understanding of complex codes and wiring. I've included [the coding for the device here](3rd-attempt-thermistorbuzzLED.ino), and contemplated leaving the Rick-Roll embedded because I did not complete uploading my own video, but figured everyone would be happier without it.
+
 <!--
 In ~300 words:
 - Summarize your experience in this module. What you learned, what you liked, what you found challenging.
