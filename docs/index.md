@@ -30,6 +30,7 @@ Replace the elements below to insert your picture.
 ![Completed Button image](images/3846F1B5-8938-4466-B705-35C763F38DEB.jpeg "This is the completed button circuit")
 
 ## Day 2: Results
+In the next task, we built a thermometer, which was connected to an RDB LED light, that changed colours as temperature rose or fell. Initially this project was fairly straightforward, and worked quite reliably. For some reason, as I gained confidence and began experimenting with the temperature boundaries within the code, the colour change was less reliable and defaulted to blue more often than it should have. In the end some rewiring and refreshing a newly merged code seemed to fix this mysterious issue. Though this set me back a bit, as I jumped ahead to add a buzzer before uploading the code, it was ultimately a solid opportunity to troubleshoot and study the coding more. Check out my code for the [finished thermistor and LED here](thermistorLED.ino)
 <!--
 Upload your fully-commented Arduino sketch from your final Day 2 build task--a thermometer connected to an RDB LED--into your GitHub repository.
 Provide a short (~150 words) summary of your work on this circuit:
@@ -39,7 +40,6 @@ Provide a short (~150 words) summary of your work on this circuit:
 - Be sure to link to your code (in your GitHub repository) in the text of your response.
 -->
 
-[Finished thermistor and LED](thermistorLED.ino)
 ## Arduino build-off results
 <!--
 Upload your fully-commented Arduino sketch from the final product of your Arduino build-off into the top-level of your module GitHub repository.
